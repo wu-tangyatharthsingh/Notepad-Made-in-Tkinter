@@ -1,2 +1,6 @@
-# Notepad-Made-in-Tkinter
-A simple notepad-like text editor built using Python's Tkinter library. Supports basic text editing features with a clean and minimal GUI
+I learned how to:
+Open and read files using askopenfilename()
+
+Save files using asksaveasfilename()
+
+Handle file paths and content properly in a GUI environment
