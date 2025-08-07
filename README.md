@@ -11,3 +11,4 @@ Open and read files using askopenfilename()
 Save files using asksaveasfilename()
 
 Handle file paths and content properly in a GUI environment
+![Image Alt](https://github.com/wu-tangyatharthsingh/Notepad-Made-in-Tkinter/blob/a41b1bdf13711ebae982363463d488bba4a561fd/Screenshot%202025-08-07%20162606.png)
